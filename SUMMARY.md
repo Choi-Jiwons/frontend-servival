@@ -1,3 +1,3 @@
 # Table of contents
 
-* [frontend-servival](README.md)
+* [Git Book 가이드](README.md)

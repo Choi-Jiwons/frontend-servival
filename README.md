@@ -1,3 +1,6 @@
-# frontend-servival
+---
+description: git book을 적극적으로 활용해보자!
+---
 
-choi\_dev\_note
+# Git Book 가이드
+
